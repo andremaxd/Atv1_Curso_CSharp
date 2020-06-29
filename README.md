@@ -1,5 +1,7 @@
 # Atv_Curso_CSharp_e_.Net
 Exercício em C#
+
+Herança e polimorfismo
  
 Um programa para ler os dados de N produtos (N fornecido pelo usuário). 
 Ao final, mostrar a etiqueta de preço de cada produto na mesma ordem em que foram digitados.
