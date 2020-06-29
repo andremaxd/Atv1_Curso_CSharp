@@ -8,3 +8,5 @@ Ao final, mostrar a etiqueta de preço de cada produto na mesma ordem em que for
 Todo produto possui nome e preço. Produtos importados possuem uma taxa de alfândega, e produtos usados possuem data de fabricação.
 Para produtos importados, a taxa e alfândega deve ser acrescentada ao preço final do produto.
 <src img="image.png">
+
+A classe do programa está em image.png
