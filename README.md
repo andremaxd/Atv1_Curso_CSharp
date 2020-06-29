@@ -1,6 +1,5 @@
 # Atividade Curso C#
-Exercício em C#
-UDEMY
+Exercício em C# - UDEMY
 
 Herança e polimorfismo
  
